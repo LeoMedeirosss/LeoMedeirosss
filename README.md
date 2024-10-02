@@ -6,7 +6,6 @@
 
  ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMedeirosss&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMedeirosss&hide_progress=true&theme=dracula&layout=donut-vertical)
 
 ## Principais tecnologias utilizadas
 
@@ -20,6 +19,10 @@
                                                 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
                                                 
 </div>
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMedeirosss&hide_progress=true&theme=dracula&layout=donut-vertical)
 
 <br/>
 
