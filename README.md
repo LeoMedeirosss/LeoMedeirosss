@@ -1,5 +1,5 @@
 ## Olá!! Meu nome é Leonardo Medeiros.
-### Sou um programador e cientista da computação!
+### Sou um programador e cientista da computação!!
 #### Recife - PE
 
  ##### Linkedin: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-medeiros-de-freitas-b46899235/)
