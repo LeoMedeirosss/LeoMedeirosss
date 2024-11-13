@@ -33,7 +33,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMedeirosss&hide_progress=true&theme=dracula&layout=donut-vertical&exclude_repo=Proximity-Detector-Project&langs_count=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMedeirosss&hide_progress=true&theme=dracula&layout=donut-vertical&exclude_repo=Proximity-Detector-Project&langs_count=16)
 
 <br/>
 
