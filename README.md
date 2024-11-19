@@ -33,8 +33,6 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMedeirosss&theme=dracula&layout=donut-vertical&exclude_repo=Proximity-Detector-Project&langs_count=20)
-
 <br/>
 
 Atualmente estudando na Cesar School, faculdade de Ciência da Computação. Fazendo o que gosto e trabalhando com isso.
